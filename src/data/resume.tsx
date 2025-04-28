@@ -8,9 +8,9 @@ export const DATA = {
   location: "Dhaka, Bangladesh",
   locationLink: "https://maps.app.goo.gl/HbGYWKmvZHWApKZ96",
   description:
-    "Backend Engineer | JavaScript | React.js & Node.js Specialist",
+    "Software Engineer | JavaScript | React.js & Node.js Specialist",
   summary:
-    "Backend Developer proficient in **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**, with experience building scalable server-sideapplications and efficient **REST APIs**. Proficient in **database design**, **authentication**, and performance **optimization**",
+    "Software Developer proficient in **React.js**, **Node.js**, **Express.js**, and **MongoDB**, with experience building scalable applications and efficient **REST APIs**. Proficient in **React-Redux**, **Redux-Toolkit**, **RTK-Query**, and performance **Optimization**",
   avatarUrl: "/Emon.jpg",
   skills: [
     "JavaScript", "TypeScript", "Node.js", "Express.js", " REST APIs", "JWT Auth", "React.js", "Redux.js", "Redux-Toolkit", "Next.js", "TailwindCSS", "MongoDB", "Mongoose", "Mongoose", "Git", "Github", "Postman", "Zoho", "Trello", "Jira",
@@ -71,7 +71,7 @@ export const DATA = {
       href: "https://saltinnovate.com/",
       badges: ["Internship"],
       location: "Remote",
-      title: "Trainee Backend Engineer",
+      title: "Trainee Software Engineer",
       logoUrl: "/salt-innovate.png",
       start: "December 2024",
       end: "March 2025",
